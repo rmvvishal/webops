@@ -1,0 +1,90 @@
+.insta{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+
+body{
+    text-align: center;
+   
+   
+    border:1px solid;
+    justify-content: center;
+      align-items: center;
+}   
+
+    
+
+.index-form{
+    border: 1px solid white;
+    
+    align-items: center;
+    color:antiquewhite;
+    
+    margin-right: 20px;
+    letter-spacing: normal;
+   
+
+    
+}
+.log-in
+{
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+  
+}
+
+
+
+.input{
+    color:grey;
+    text-align: center;
+    align-items: center;
+    
+    
+    
+}
+.facebook{
+    text-align: center;
+    color:#3b5998;
+    font-weight: bolder;
+    cursor: pointer;
+}
+.fb-link{
+    
+    width:20px;
+    height: 15px;
+    cursor: pointer;
+    
+}
+.sign-up{
+    color: black;
+    font-weight: bolder;
+    
+}
+.password{
+    color:blue;
+    font-size: medium;
+    cursor: pointer;
+}
+.good{
+    color: #3897f0;
+    font-weight: bold;
+    cursor: pointer;
+}
+.parent-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  width: 600px;
+  height: 600px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px;
+  align-items: center;
+}
